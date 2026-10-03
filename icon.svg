@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#1b2a30"/>
+  <circle cx="256" cy="256" r="230" fill="#fe5f55" opacity=".35"/>
+  <g transform="rotate(-10 256 256)">
+    <rect x="146" y="96" width="220" height="310" rx="22" fill="#f4f2ea" stroke="#c9c6ba" stroke-width="8"/>
+    <text x="172" y="160" font-family="monospace" font-size="56" font-weight="bold" fill="#f03464">A</text>
+    <path d="M256 190c-40 48-86 70-86 112 0 26 20 44 44 44 16 0 30-8 38-20-4 30-14 44-30 52h68c-16-8-26-22-30-52 8 12 22 20 38 20 24 0 44-18 44-44 0-42-46-64-86-112z" fill="#f03464"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "name": "Balatro Việt",
+  "short_name": "Balatro VN",
+  "description": "Game bài poker roguelike phong cách Balatro, bản tiếng Việt.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#10191b",
+  "theme_color": "#10191b",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
